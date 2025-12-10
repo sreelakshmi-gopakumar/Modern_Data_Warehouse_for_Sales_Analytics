@@ -75,7 +75,7 @@ If you want to clone and run this project locally, follow these steps:
 
 1.  *Clone the Repo:*
     bash
-    git clone [https://github.com/Malusree-2001/Modern_Data_Warehouse_for_Sales_Analytics.git](https://github.com/Malusree-2001/Modern_Data_Warehouse_for_Sales_Analytics.git)
+    git clone [https://github.com/sreelakshmi-gopakumar/Modern_Data_Warehouse_for_Sales_Analytics.git](https://github.com/sreelakshmi-gopakumar/Modern_Data_Warehouse_for_Sales_Analytics.git)
     
 2.  *Set up SQL Server:*
     * Open init_database.sql and execute it to create the database.
@@ -95,4 +95,5 @@ If you want to clone and run this project locally, follow these steps:
 | Name | GitHub |
 |------|--------|
 | *Anagha Pradeep* | [Profile](https://github.com/Malusree-2001) |
+
 | *Sreelakshmi Vattapparambil Gopakumar* | [Profile](https://github.com/sreelakshmi-gopakumar) |
